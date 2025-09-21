@@ -25,7 +25,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 document.addEventListener("DOMContentLoaded", function() {
   const footer = document.querySelector("footer");
   footer.addEventListener("click", function() {
-    alert("Thank you for visiting my portfolio! You can reach me at your.email@example.com");
+    alert("Thank you for visiting my portfolio! You can reach me at krayanahamed@gmail.com");
   });
 });
 const text = "Computer Science Student | Aspiring Developer";
